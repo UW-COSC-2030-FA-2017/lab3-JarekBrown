@@ -70,7 +70,6 @@ int main()
 	//it will overflow using n=171
 	
 	//Part 6:
-	short n = 0;
 	float ratio, ratioSum;
 	cout << "enter n for 1/n summation: ";
 	cin >> n;
